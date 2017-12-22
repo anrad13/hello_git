@@ -1,6 +1,9 @@
 package com.company;
 
+
 // this is B0001 branch
+// Branch B0002
+
 
 public class Main {
 
