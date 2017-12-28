@@ -3,6 +3,7 @@ package com.company;
 
 // this is B0001 branch
 // Branch B0002
+// the first commit to remote for mirror git project
 
 
 public class Main {
