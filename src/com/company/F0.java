@@ -1,5 +1,5 @@
 package com.company;
-
-public class F0 {
-	public void apply() {}
+public class F0 implement Serialized {
+    public String str = "new string";
+    public void apply() {}
 }
