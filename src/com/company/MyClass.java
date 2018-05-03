@@ -4,5 +4,7 @@ package com.company;
 
 public class MyClass {
 
-    public String apply() { return this.getClass().getName();}
+    public String apply() { return this.getClass().fullName();}
+
+    public String apply(String prefix) { return apply() + pefix; }
 }
